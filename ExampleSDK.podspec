@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.summary                    = 'Powerful A/B testing SDK for Swift - iOS'
   spec.source                     = { :http => "https://github.com/TheOneWhoWants/testSDK/archive/refs/heads/main.zip" }
   
-  spec.vendored_frameworks        = "GrowthBook.xcframework"
+  spec.vendored_frameworks        = "build/GrowthBook.xcframework"
 
   spec.swift_version              = ['5.0', '5.1', '5.2']
   spec.ios.deployment_target      = '12.0'
