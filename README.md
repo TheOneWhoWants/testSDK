@@ -83,14 +83,15 @@ func setDeeplinkListener(url: URL)
 
 To configure direct install postbacks, add Adjust’s callback URL to your Info.plist file:
 
-    1. In Xcode, open the Info.plist file from the Project Navigator.
-    2. Click the Add button next to any key in the property list editor and press Return.
-    3. Set the key name to: `NSAdvertisingAttributionReportEndpoint`
-    4. Change the type to String.
-    5. Set the value to: 
+1. In Xcode, open the Info.plist file from the Project Navigator.
+2. Click the Add button next to any key in the property list editor and press Return.
+3. Set the key name to: `NSAdvertisingAttributionReportEndpoint`
+4. Change the type to String.
+5. Set the value to: 
+    
     
 ```swift
-https://adjust-skadnetwork.com
+https://adshift-skadnetwork.com
 ```
 
 
