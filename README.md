@@ -5,8 +5,8 @@
 # Table Of Contents
 
 1. [Installation](#Installation)
-2. [SPM](#SPM)
-2. [Cocoapods](#Cocoapods)
+1.1 [SPM](#SPM)
+1.2 [Cocoapods](#Cocoapods)
 1. [Integration](#Integration)
 1. [Consents](#Consents)
 1. [Deeplinking](#Deeplinking)
