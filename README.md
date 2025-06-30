@@ -5,6 +5,8 @@
 # Table Of Contents
 
 1. [Installation](#Installation)
+2. [SPM](#SPM)
+2. [Cocoapods](#Cocoapods)
 1. [Integration](#Integration)
 1. [Consents](#Consents)
 1. [Deeplinking](#Deeplinking)
@@ -12,11 +14,9 @@
 1. [Usage](#Usage)
 1. [Support](#support)
 
-[Cocoapods](#pods)
-
 ## [Installation](#Installation)
 
-##### Swift Package Manager - SPM
+#### [Swift Package Manager - SPM](#SPM)
 
 The [Swift Package Manager](https://swift.org/package-manager/) is Swift's native dependency management tool, built directly into the `swift` compiler. To integrate ADShift into your project:
 
@@ -33,6 +33,10 @@ dependencies: [
     .package(url: "https://github.com/adshift/adshift-swift.git")
 ]
 ```
+
+#### [Cocoapods](#Cocoapods)
+
+
 
 ## [Integration](#Integration)
 <ins> Configure your Adshift Api Key in `didFinishLaunchingWithOptions`. </ins>
