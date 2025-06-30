@@ -53,7 +53,7 @@ Use `start` command to start running
 Adshift.shared.start()
 ```
 
-## [Consents][#Consents)
+## [Consents](#Consents)
 
 [More information here](https://developer.apple.com/documentation/bundleresources/information-property-list/nsusertrackingusagedescription)
 Manually set given consents 
