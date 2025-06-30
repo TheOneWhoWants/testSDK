@@ -6,7 +6,7 @@
 
 1. [Installation](#Installation)
 1. [Integration](#Integration)
-1. [Consents][#Consents)
+1. [Consents](#Consents)
 1. [Deeplinking](#Deeplinking)
 1. [SKAN Postback](#SKAN)
 1. [Usage](#Usage)
