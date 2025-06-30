@@ -35,7 +35,7 @@ dependencies: [
 ```
 
 ## [Integration](#Integration)
-note::: Configure your Adshift Api Key in `didFinishLaunchingWithOptions`.
+note:: Configure your Adshift Api Key in `didFinishLaunchingWithOptions`.
 
 To integrate the ADShift SDK, simply call the `setApiKey` method with your unique API key.
 
